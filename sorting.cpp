@@ -83,7 +83,6 @@ public:
                     a[idx++] = x;
                 }
             }
-
             exp *= 10;
         }
     }
